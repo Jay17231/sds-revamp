@@ -1,5 +1,5 @@
 <?php 
 	/*
-	Custom Page Template1
+	Template Name: Custom Page Template1
 	*/
 ?>
